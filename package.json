@@ -1,0 +1,20 @@
+{
+  "name": "topic-search",
+  "version": "1.0.0",
+  "description": "1. npm install 2. npm start ## Video Explanation Steps - Component structure - Filtering logic - Demo with thermo/xyz ## GitHub Link (Add your repo link here)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "vite": "^7.2.2"
+  }
+}
+
